@@ -1,0 +1,2 @@
+# BamBooScript
+a program lang
